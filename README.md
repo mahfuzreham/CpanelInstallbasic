@@ -1,4 +1,4 @@
-# WHM/cPanel Installation Script v2
+# WHM/cPanel Installation Script v1.1.1
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Linux-orange.svg)
